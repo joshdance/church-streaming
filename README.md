@@ -11,7 +11,7 @@ The camera connects to the laptop over WiFi. It streams to OBS Studio, which com
 4. Save the background [image file](https://raw.githubusercontent.com/rodneyswa/church-streaming/main/background-box.png) if you want to add captions.
 
 ### 2. Phone
-1. Install the [DroidCam OBS app](https://www.dev47apps.com/obs/#app) on your phone
+1. Install the [DroidCam OBS app](https://www.dev47apps.com/obs/#app) on your phone. App is available for both Android and iOS.
     * Using an Android phone is better because you get Remote Control
 2. Purchase the Pro upgrade to remove the screen logo and be able to use the Remote Control - which allows you to zoom and lighten/darken the video from your laptop.
 
@@ -77,5 +77,5 @@ Connect your camera to power with a USB cord, so it doesn't go to sleep. I went 
 ## Stop the Stream
 1. In your browser click on End Stream at the top right
 2. In OBS click Stop Streaming
-3. Delete the completed livestream. Go to Studio > Content > Live and delete the live stream.
+3. Delete the completed livestream. Go to Studio > Content > Live and deleted the live stream.
 
